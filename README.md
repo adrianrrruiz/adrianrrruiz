@@ -13,18 +13,14 @@
     <tr>
       <td>
         <ul>
-          <li>🔭 I’m currently working on ...</li>
-          <li>🌱 I’m currently learning ...</li>
-          <li>👯 I’m looking to collaborate on ...</li>
-          <li>🤔 I’m looking for help with ...</li>
+          <li>🔭 I’m currently working on a personal project with Flutter</li>
+          <li>🌱 I’m currently learning JavaScript</li>
         </ul>
       </td>
       <td>
         <ul>
-          <li>💬 Ask me about ...</li>
-          <li>📫 How to reach me: ...</li>
-          <li>😄 Pronouns: ...</li>
-          <li>⚡ Fun fact: ...</li>
+          <li>💬 Ask me about competitive programming</li>
+          <li>📫 How to reach me: adrianrrruiz@gmail.com</li>
         </ul>
       </td>
     </tr>
