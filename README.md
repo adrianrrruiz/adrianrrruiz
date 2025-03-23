@@ -1,5 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="50px"/> &nbsp;What's Up? &nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="200">
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="300">
+</div>
+<br>
 
 I'm currently studying at **Pontifical Javeriana University**. At the same time, I truly enjoy learning about new technologies and working on personal projects.
 
